@@ -1,0 +1,13 @@
+JAVA Common Questions :
+
+Unit 4:
+1.  Explain ‘Event Listeners’ and their role in Java. 			---> Set 2 and 3.
+2.  Explain about Handling Mouse Events.				---> Set 2 and 3.
+3.  Evaluate the advantages of using the "Delegation Event Model".	---> Set 1.
+4.  Write a Java program to implement Mouse event handling.		---> Set 1.
+
+Unit 5 :
+5. Explain about the MVC architecture? 					---> Set 1 and 3.
+6. Explain the MVC architecture with a Java Application? 		---> Set 1.
+7. Write a Swing program which contain a button, label, list 		---> Set 3.
+   and checkbox.

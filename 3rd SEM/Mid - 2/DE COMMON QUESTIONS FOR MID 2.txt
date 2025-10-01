@@ -1,0 +1,18 @@
+DE COMMON QUESTIONS FOR MID 2
+Unit 4:
+1)Compare combinational and sequential circuits.  					---> Set 1 and 3.
+2)Explain the operation of clocked SR flip-flop.  					---> Set 2 and 3.
+3)Explain the operation of Universal shift register with a neat diagram. 		---> Set 1.
+4)Convert a T Flip Flop to SR Flip Flop. 						---> Set 2.
+
+Unit 5:
+1)Implement the following Boolean function using PAL 
+  with four inputs and also write the PAL programming table. 
+  F1(A,B,C,D)= Σ m(1,2,8,12,13) 							---> Set 1 and 2.
+  F2(A,B,C,D)= Σ m(0,2,3,4,5,6,7,8,10,11,15) 
+2)Differentiate Static and Dynamic RAM.							---> Set 1,2,3.
+3)Design 3 bit binary to Gray Code converter using PLA? 				---> Set 3.
+
+Unit 3:
+1)Design a 4-bit Gray to Binary Code Converter 						---> Set 2 and 3.
+2)What is Decoder? Construct 2 to 4 Decoder Using Logic Gates and truth table.		---> Set 1.
